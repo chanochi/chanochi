@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width, initial-scale=1.0">
+        <title>Resume</title>
+    </head>
+    <body>
+        <h1>Marisa Jankhaw</h1>
+        <img height="200" src="./img/334939156_5772199426212569_3519272026897093534_n.jpg">
+        <h2>Summary</h2>
+        I am a person who is hardworking, diligent and determined to work.
+        <hr>
+        <h2>Education</h2>
+        <ul>
+            <li>Phimaimaisamakkeenueng School (2007- 2010)</li>
+            <li>Wat Khlong Mon School (2011 - 2014)</li>
+            <li>Wat Thung Khru School (2015 - 2017)</li>
+            <li>Chetupon Commercial College (2018 - 2020)</li>
+            <li>Information of Technology, Rajamangala University Krungthep (2021 - Present)</li>
+        </ul>
+        <hr>
+        <h2>Work Experience</h2>
+        <ul>
+            <h3><li>Customer Service Representative - HR staff.</li></h3>
+            <p>(June 2020 - May 2021)</p>
+            <ul>
+                <li>Answered customer inquiries via phone and email</li>
+                <li>Resolved customer complaints and issues</li>
+                <li>Maintained customer records and updated account information</li>
+            </ul>
+        </ul>
+        <hr>
+        <h2>Skills</h2>
+        <ul>
+            <li>Microsoft Office Suite : ⭐️⭐️</li>
+            <li>Microsoft Office Word : ⭐️⭐️⭐️⭐️⭐️</li>
+            <li>JavaScript : ⭐️⭐️</li>
+            <li>Photoshop : ⭐️⭐️⭐️⭐️</li>
+            <li>Html : ⭐️⭐️⭐️</li>
+        </ul>
+        <hr>
+        <h2>Awards and Certifications</h2>
+        <ul>
+            <li>-</li>
+        </ul>
+        <hr>
+        <h2>Other</h2>
+        <ul>
+            <li><a href="./img/Hobies.html">My Hobbies</a></li>
+            <li><a href="./img/Contact.html">Contact Me</a></li>
+        </ul>
+        <footer>@ Marisa Jankhaw</footer>
+    </body>
+</html>
